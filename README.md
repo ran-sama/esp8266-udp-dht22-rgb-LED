@@ -1,4 +1,4 @@
-# udp-dht22-rgb-LED-climate-sensor
+# esp8266-udp-dht22-rgb-LED
 Sends UDP packets with humidity value and display traffic light style color coded humidity information.
 
 In terminal:
